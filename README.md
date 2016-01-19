@@ -1,7 +1,7 @@
 # SwissHandmade_Arduino-MKR1000
 
 This respository collects a few informations and tools for the 
-new Arduino MKR1000 board.
+new Arduino MKR1000 board. Inspired by the Adafruit Travis-CI scripts:
 
 * Installation scripts to simplify the setup (Arduino Zero + WiFi101, same ICs)
 * Datasheets to avoid many downloads
