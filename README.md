@@ -7,6 +7,10 @@ new Arduino MKR1000 board. Inspired by the Adafruit Travis-CI scripts:
 * Datasheets to avoid many downloads
 * Whatever needed ... later
 
+Important to know:
+* It doesn't work with the older IDE v1.6.5, so be sure to pick v1.6.7
+* WiFi101 has to be in version 0.8.0, not the 0.6.0 available in the library manager
+
 See also:
 * The branded breakout: https://www.arduino.cc/en/Main/ArduinoMKR1000
 * Module: http://www.atmel.com/devices/ATSAMW25.aspx?tab=documents
