@@ -6,7 +6,7 @@ cd %ProgramFiles(x86)%/arduino
 
 arduino_debug --install-boards arduino:samd
 
-arduino_debug --install-library "WiFi101"
+arduino_debug --install-library "WiFi101:0.8.0"
 arduino_debug --install-library "RTCZero"
 arduino_debug --install-library "AzureIoT"
 
