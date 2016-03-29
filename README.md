@@ -1,11 +1,15 @@
 # SwissHandmade_Arduino-MKR1000
 
 This respository collects a few informations and tools for the 
-new Arduino MKR1000 board.
+new Arduino MKR1000 board. Inspired by the Adafruit Travis-CI scripts:
 
 * Installation scripts to simplify the setup (Arduino Zero + WiFi101, same ICs)
 * Datasheets to avoid many downloads
 * Whatever needed ... later
+
+Important to know:
+* It doesn't work with the older IDE v1.6.5, so be sure to pick v1.6.7
+* WiFi101 has to be in version 0.8.0, not the 0.6.0 available in the library manager
 
 See also:
 * The branded breakout: https://www.arduino.cc/en/Main/ArduinoMKR1000
